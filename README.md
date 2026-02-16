@@ -55,8 +55,7 @@ If you are looking for an **AI chat app APK**, **Airo GPT** is built for smooth 
 
 ## 🌐 Official Website
 
-Airo GPT Official Site:  
-https://airogpt.lovable.app/
+👉 [Airo GPT Official Site](https://airogpt.lovable.app/)
 
 ---
 
