@@ -1,6 +1,6 @@
 # Airo GPT – Smart AI Chat Assistant for Android
 
-# My Official Developer Page 
+#  Official Developer Page 
 👉 [Aarav Thakur Developer Page](https://airogptdeveloper.netlify.app/)
 
 **Airo GPT** is a smart AI chat assistant Android app designed to provide fast, intelligent, and user-friendly conversations. It helps users ask questions, get explanations, and interact with an AI in a simple mobile interface.
