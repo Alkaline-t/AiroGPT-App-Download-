@@ -57,10 +57,6 @@ If you are looking for an **AI chat app APK**, **Airo GPT** is built for smooth 
 
 👉 [Airo GPT Official Site](https://airogpt.lovable.app/)
 
-## Airo GPT MUSIC (NEW!!) 
-👉 [Official Page of Airo GPT Music](airogptmusic.lovable.app)
----
-
 ## 🔍 Keywords (for discoverability)
 
 Airo GPT, AiroGPT, Airo GPT app, Airo GPT Android, Airo GPT APK, Airo GPT download, AI chat app, AI assistant Android, smart AI chatbot app
@@ -87,8 +83,6 @@ This Airo GPT repository is used to:
 - Expanded assistant tools  
 
 ---
-## Airo GPT MUSIC (NEW!!) 
-👉 [Official Page of Airo GPT Music](airogptmusic.lovable.app)
 
 ## 📄 License
 
