@@ -38,7 +38,6 @@ If you are looking for an **AI chat app APK**, **Airo GPT** is built for smooth 
 - 📲 Android APK install support  
 - 🧠 Intelligent answer generation  
 - 🎯 Simple and user-friendly design  
-- 🔄 Regular AIRO GPT updates planned  
 
 ---
 
